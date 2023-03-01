@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "qinyu-xiao-website",
+    "title": "Hello.",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a PhD student at the Social and Economic Psychology Group (PI: Prof. Dr. Robert Böhm) at the Department of Occupational, Economic and Social Psychology, University of Vienna, Austria. I received my M.Phil. in social psychology and B.A. in psychology and philosophy from the University of Hong Kong.\nMy research aims to understand social decision-making in the face of large-scale pressing societal challenges, such as climate change, intergroup conflicts, and inequality. With experimental, survey, and computational methods, I study human cooperation, prosociality, and social institutions. I strive to be interdisciplinary in research, by referring to theories and methods from economics, evolutionary biology, etc. I strongly support open science and make my work as transparent and reproducible as possible."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study human cooperation, conflicts, and social institutions with experiments and surveys. I apply theories and methods from a wide range of disciplines, including social psychology, behavioral economics, evolutionary biology, experimental philosophy, etc. I support open science and regularly conduct replication studies."
+  },
+  {
+    "objectID": "research/index.html#main-journal-articles",
+    "href": "research/index.html#main-journal-articles",
+    "title": "Research",
+    "section": "Main journal articles",
+    "text": "Main journal articles\n\n2023\nKasper, M.*, Böhm, R.*, Xiao, Q.*, Columbus, S.* (2023). Individuals benefit individual out-group members rather than harm in-group members: Comment on Gershon and Fridman (2022). Proceedings of the National Academy of Sciences. [DOI] [PDF] [OSF]"
+  },
+  {
+    "objectID": "research/index.html#big-team-science-projects",
+    "href": "research/index.html#big-team-science-projects",
+    "title": "Research",
+    "section": "Big-team science projects",
+    "text": "Big-team science projects\nBuchanan, E. M. et al. (2023). PSACR: The Psychological Science Accelerator’s COVID-19 Rapid-Response dataset. Nature Scientific Data, 10, Article 87.\nCRediT roles: investigation, writing - review & editing"
   }
 ]
