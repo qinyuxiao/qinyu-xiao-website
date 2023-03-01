@@ -1,0 +1,24 @@
+project:
+  type: website
+  resources:
+    - "files/**"
+    - "etc/**"
+
+website:
+  title: "Qinyu Xiao"
+  description: "Qinyu Xiao is a PhD student at the University of Vienna, studying cooperation, prosociality, and social institutions."
+  navbar:
+    pinned: true
+    
+    left:
+      - text: "About"
+        href: "index.md"
+      - text: "CV"
+        href: "cv/index.md"
+      - text: "Research"
+        href: "research/index.md"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

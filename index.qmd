@@ -1,0 +1,26 @@
+---
+title: "Hello."
+image: avatar.jpg
+about:
+  template: trestles
+  links:
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/qinyu_xiao"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/qinyuxiao"
+    - text: Email
+      url: "mailto:qinyu.xiao@univie.ac.at"
+    - text: CV
+      url: "https://docs.google.com/document/d/1PTG0KoESZOUg-ugLJuj3WgjkWCW6uoHcj_cIdAKiDMI/edit?usp=sharing"
+comments: false
+---
+
+::: {.column-page}
+
+I am a PhD student at the [Social and Economic Psychology Group](https://social-econ-psych.univie.ac.at/) (PI: Prof. Dr. [Robert Böhm](http://robertboehm.info/)) at the [Department of Occupational, Economic and Social Psychology](https://psychologie.univie.ac.at/en/research/departments/department-of-occupational-economic-and-social-psychology/), University of Vienna, Austria. I received my M.Phil. in social psychology and B.A. in psychology and philosophy from the University of Hong Kong.
+
+My research aims to understand social decision-making in the face of large-scale pressing societal challenges, such as climate change, intergroup conflicts, and inequality. With experimental, survey, and computational methods, I study human cooperation, prosociality, and social institutions. I strive to be interdisciplinary in research, by referring to theories and methods from economics, evolutionary biology, etc. I strongly support open science and make my work as transparent and reproducible as possible.
+
+:::

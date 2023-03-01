@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+I study human cooperation, conflicts, and social institutions with experiments and surveys. I apply theories and methods from a wide range of disciplines, including social psychology, behavioral economics, evolutionary biology, experimental philosophy, etc. I support open science and regularly conduct replication studies.
+
+## Main journal articles
+
+### 2023
+
+Kasper, M.^\*^, Böhm, R.^\*^, **Xiao, Q.**^\*^, Columbus, S.^\*^ (2023). Individuals benefit individual out-group members rather than harm in-group members: Comment on Gershon and Fridman (2022). *Proceedings of the National Academy of Sciences*. [[DOI](https://doi.org/10.1073/pnas.2301107120)] [PDF] [[OSF](https://osf.io/h43mc)]
+
+## Big-team science projects
+
+Buchanan, E. M. et al. (2023). PSACR: The Psychological Science Accelerator's COVID-19 Rapid-Response dataset. *Nature Scientific Data*, *10*, Article 87.  
+CRediT roles: investigation, writing - review & editing
+
