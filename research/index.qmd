@@ -2,17 +2,16 @@
 title: "Research"
 ---
 
-I study human cooperation, conflicts, and social institutions with experiments and surveys. I apply theories and methods from a wide range of disciplines, including social psychology, behavioral economics, evolutionary biology, experimental philosophy, etc. I support open science and regularly conduct replication studies.
+I study human cooperation, conflicts, and social institutions with experiments and surveys. I (aim to) apply theories and methods from a wide range of disciplines, including social psychology, behavioral economics, evolutionary biology, experimental philosophy, etc. I support open science and regularly conduct replication studies.
 
-(^\*^: equal contributions; ^\^^: supervisees/mentees; ^\#^: correspondence)
+(^\*^: equal contributions; ^\^^: mentees; ^\#^: correspondence)
 
-## Main journal articles
-
-
+## Journal articles
 
 ### 2023
 
-Kasper, M.^\*^, Böhm, R.^\*^, **Xiao, Q.**^\*^, Columbus, S.^\*^ (2023). Individuals benefit individual out-group members rather than harm in-group members: Comment on Gershon and Fridman (2022). *Proceedings of the National Academy of Sciences*. [[DOI](https://doi.org/10.1073/pnas.2301107120)] [PDF] [[OSF](https://osf.io/h43mc)]
+Kasper, M.^\*^, Böhm, R.^\*^, **Xiao, Q.**^\*^, & Columbus, S.^\*^ (2023). Individuals benefit individual out-group members rather than harm in-group members: Comment on [Gershon and Fridman (2022)](https://doi.org/10.1073/pnas.2215633119). *Proceedings of the National Academy of Sciences*.  
+[[DOI](https://doi.org/10.1073/pnas.2301107120)] [PDF] [[OSF](https://osf.io/h43mc)]
 
 Elsherif, M. M., Pomareda, C., Xiao, Q., Chu, H. Y., Tang, M. C., Wong, T. H., Wu, Y. & Feldman, G. (in-principle acceptance, expected 2023). Linking anthropomorphism to loneliness and free will belief: Replication and extension of Epley et al. (2008). *Peer Community In (PCI) Registered Reports*.
 
@@ -39,16 +38,25 @@ Parsons, S. et al. (2022). A community-sourced glossary of open scholarship term
 
 Psychological Science Accelerator Self-Determination Theory Collaboration. (2022). A global experiment on motivating social distancing during the COVID-19 pandemic. *Proceedings of the National Academy of Sciences*, *119*(22), Article e2111091119.
 
-Wang, K. et al. (2021). A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. *Nature Human Behaviour*, *5*, 1089--1110.
+Wang, K. et al. (2021). A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. *Nature Human Behaviour*, *5*, 1089--1110.  
+[[DOI](https://doi.org/10.1038/s41562-021-01173-x)] [[PDF](https://osf.io/6zbw2)] [[OSF](https://osf.io/4yf9d/)]
 
 ## Work in progress
 
+**Xiao, Q.**^\*^, Yeung, S. K.^\*^, Elsherif, M. M., Zhang, Y., & Feldman, G. (in progress). Power analysis guide. [[Google Doc]()] [[PDF]()]  
+This is a collaborative guide. It will remain work in progress indefinitely.
 
+**Xiao, Q.**^\*^, Yeung, S. K.^\*^, Dunleavy, D. J., Röseler, L., Elsherif, M. M., & Feldman, G. (in progress). Effect sizes and confidence intervals guide.
 
+Hall, B. F. et al. (Stage 2 Registered Report revise and resubmit). Registered Replication Report: A large multilab cross-cultural conceptual replication of Turri, Buckwalter, & Blouw (2015). *Advances in Methods and Practices in Psychological Science*.
 
+**Xiao, Q.**, Au, Y. L.^\^^, Chung, W. T.^\^^, Li, L. C.^\^^, Tan, S. N.^\^^, & Feldman, G. (Stage 1 Registered Report revise and resubmit). Licensing via credentials: Replication of Monin and Miller (2001) with extensions investigating the domain-specificity of moral credentials and the effect of reputational concern. *Peer Community In (PCI) Registered Reports*.
 
+**Xiao, Q.**, & Feldman, G. (Stage 1 Registered Report revise and resubmit). Moral typecasting: Replication and extension of Gray and Wegner (2009). *Peer Community In (PCI) Registered Reports*.
 
+Cruz, F.^\*^^\^^, **Xiao, Q.**^\*^, Cheng, Y. L., Chiu, T. C., Kwan, C., Chan, C. H., Cheng, B. L., & Feldman, G. (manuscript in preparation). The false consensus effect: Replications and extensions of Ross et al. (1977).
 
+Pascual, N. R.^\*^^\^^, **Xiao, Q.**^\*^, Cheng, H. S., Au, Y. H., Wan, K. H., Li, D. Y., Cheng, B. L., & Feldman, G. (manuscript in preparation). Overconfidence: Replications and extensions of Fischhoff, Slovic, and Lichtenstein (1977).
 
 
 
