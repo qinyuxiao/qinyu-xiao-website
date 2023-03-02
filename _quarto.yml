@@ -16,7 +16,7 @@ website:
       - text: "CV"
         href: "cv/index.md"
       - text: "Research"
-        href: "research/index.md"
+        href: "research/index.qmd"
 
 format:
   html:
