@@ -4,14 +4,60 @@ title: "Research"
 
 I study human cooperation, conflicts, and social institutions with experiments and surveys. I apply theories and methods from a wide range of disciplines, including social psychology, behavioral economics, evolutionary biology, experimental philosophy, etc. I support open science and regularly conduct replication studies.
 
+(^\*^: equal contributions; ^\^^: supervisees/mentees; ^\#^: correspondence)
+
 ## Main journal articles
+
+
 
 ### 2023
 
 Kasper, M.^\*^, Böhm, R.^\*^, **Xiao, Q.**^\*^, Columbus, S.^\*^ (2023). Individuals benefit individual out-group members rather than harm in-group members: Comment on Gershon and Fridman (2022). *Proceedings of the National Academy of Sciences*. [[DOI](https://doi.org/10.1073/pnas.2301107120)] [PDF] [[OSF](https://osf.io/h43mc)]
 
+Elsherif, M. M., Pomareda, C., Xiao, Q., Chu, H. Y., Tang, M. C., Wong, T. H., Wu, Y. & Feldman, G. (in-principle acceptance, expected 2023). Linking anthropomorphism to loneliness and free will belief: Replication and extension of Epley et al. (2008). *Peer Community In (PCI) Registered Reports*.
+
+Jin, H., Wang, Q., Yang, Y.-F., Zhang, H., Gao, M., Jin, S., Chen, Y., Xu, T., Zheng, Y.-R., Chen, J., **Xiao, Q.**, Yang, J., Wang, X., Geng, H., Ge, J., Wang, W.-W., Chen, X., Zhang, L., Zuo, X.-N., Hu, C.-P. (2023). The Chinese Open Science Network (COSN): Building an Open Science community from scratch. *Advances in Methods and Practices in Psychological Science*.
+
+### 2021
+
+Ziano, I., Xiao, Q., Yeung, S. K., Wong, C. Y., Cheung, M. Y., Lo, C. Y. J., Yan, H. C., Narendra, G. I., Kwan, L. W., Chow, C. S., Man, C. Y., & Feldman, G. (2021). Numbing or sensitization? Replications and extensions of Fetherstonhaugh et al. (1977)'s "Insensitivity to the Value of Human Life." *Journal of Experimental Social Psychology*, *97*, Article 104222. [[DOI]()] [[PDF]()] [[OSF]()]
+
+Xiao, Q., Lam, C. S., Piara, M., & Feldman, G. (2021). Revisiting the status quo bias: Replication of Samuelson and Zeckhauser (1988). Meta-Psychology, 5. [[DOI]()] [[PDF]()] [[OSF]()]
+
+### 2020
+
+Xiao, Q., Zeng, S., & Feldman, G. (2020). Revisiting the decoy effect: Replication and extension of Ariely and Wallsten (1995) and Connolly, Reb, and Kausel (2013). Comprehensive Results in Social Psychology, 4(2), 164--198
+
 ## Big-team science projects
 
 Buchanan, E. M. et al. (2023). PSACR: The Psychological Science Accelerator's COVID-19 Rapid-Response dataset. *Nature Scientific Data*, *10*, Article 87.  
 CRediT roles: investigation, writing - review & editing
+
+Dorison, C. A. et al. (2022). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. *Affective Science*, *3*, 577--602.
+
+Parsons, S. et al. (2022). A community-sourced glossary of open scholarship terms. *Nature Human Behaviour*, *6*, 312--318.
+
+Psychological Science Accelerator Self-Determination Theory Collaboration. (2022). A global experiment on motivating social distancing during the COVID-19 pandemic. *Proceedings of the National Academy of Sciences*, *119*(22), Article e2111091119.
+
+Wang, K. et al. (2021). A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. *Nature Human Behaviour*, *5*, 1089--1110.
+
+## Work in progress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -13,6 +13,7 @@ website:
       repo: qinyuxiao/qinyu-xiao-website
   navbar:
     pinned: true
+    background: "#0063A6"
     left:
       - text: "About"
         href: "index.qmd"
