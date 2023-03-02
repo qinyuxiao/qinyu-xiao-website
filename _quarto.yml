@@ -12,11 +12,11 @@ website:
     
     left:
       - text: "About"
-        href: "index.md"
+        href: "index.qmd"
       - text: "CV"
-        href: "cv/index.md"
+        href: "cv/index.qmd"
       - text: "Research"
-        href: "research/index.qmd"
+        href: "research/index.html"
 
 format:
   html:
