@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-I study human cooperation, conflicts, and social institutions with experiments and surveys. I (aim to) apply theories and methods from a wide range of disciplines, including social psychology, behavioral economics, evolutionary biology, experimental philosophy, etc. I support open science and regularly conduct replication studies.
+I study cooperation, conflicts, and social institutions with experiments and surveys. I (aim to) apply theories and methods from a wide range of disciplines, including social psychology, behavioral economics, evolutionary biology, experimental philosophy, etc. I support open science and regularly conduct replication studies and participate in big-team science projects.
 
 (^\*^: equal contributions; ^\^^: mentees; ^\#^: correspondence)
 
@@ -11,37 +11,45 @@ I study human cooperation, conflicts, and social institutions with experiments a
 ### 2023
 
 Kasper, M.^\*^, Böhm, R.^\*^, **Xiao, Q.**^\*^, & Columbus, S.^\*^ (2023). Individuals benefit individual out-group members rather than harm in-group members: Comment on [Gershon and Fridman (2022)](https://doi.org/10.1073/pnas.2215633119). *Proceedings of the National Academy of Sciences*.  
-[[DOI](https://doi.org/10.1073/pnas.2301107120)] [PDF] [[OSF](https://osf.io/h43mc)]
+[[DOI](https://doi.org/10.1073/pnas.2301107120)] [[OSF](https://osf.io/h43mc)] [Authors' Reply]
 
-Elsherif, M. M., Pomareda, C., Xiao, Q., Chu, H. Y., Tang, M. C., Wong, T. H., Wu, Y. & Feldman, G. (in-principle acceptance, expected 2023). Linking anthropomorphism to loneliness and free will belief: Replication and extension of Epley et al. (2008). *Peer Community In (PCI) Registered Reports*.
+Elsherif, M. M.^\*^, Pomareda, C.^\*^, **Xiao, Q.**^\*^, Chu, H. Y.^\^^, Tang, M. C.^\^^, Wong, T. H.^\^^, Wu, Y.^\^^, & Feldman, G. (in-principle acceptance, expected 2023). Linking anthropomorphism to loneliness and free will belief: Replication and extension of Epley et al. (2008). *Peer Community In (PCI) Registered Reports*.  
+[DOI] [OSF]
 
-Jin, H., Wang, Q., Yang, Y.-F., Zhang, H., Gao, M., Jin, S., Chen, Y., Xu, T., Zheng, Y.-R., Chen, J., **Xiao, Q.**, Yang, J., Wang, X., Geng, H., Ge, J., Wang, W.-W., Chen, X., Zhang, L., Zuo, X.-N., Hu, C.-P. (2023). The Chinese Open Science Network (COSN): Building an Open Science community from scratch. *Advances in Methods and Practices in Psychological Science*.
+Jin, H., Wang, Q., Yang, Y.-F., Zhang, H., Gao, M., Jin, S., Chen, Y., Xu, T., Zheng, Y.-R., Chen, J., **Xiao, Q.**, Yang, J., Wang, X., Geng, H., Ge, J., Wang, W.-W., Chen, X., Zhang, L., Zuo, X.-N., & Hu, C.-P. (2023). The Chinese Open Science Network (COSN): Building an Open Science community from scratch. *Advances in Methods and Practices in Psychological Science*.  
+[DOI] [OSF]
 
 ### 2021
 
-Ziano, I., Xiao, Q., Yeung, S. K., Wong, C. Y., Cheung, M. Y., Lo, C. Y. J., Yan, H. C., Narendra, G. I., Kwan, L. W., Chow, C. S., Man, C. Y., & Feldman, G. (2021). Numbing or sensitization? Replications and extensions of Fetherstonhaugh et al. (1977)'s "Insensitivity to the Value of Human Life." *Journal of Experimental Social Psychology*, *97*, Article 104222. [[DOI]()] [[PDF]()] [[OSF]()]
+Ziano, I., **Xiao, Q.**^\*^, Yeung, S. K.^\*^, Wong, C. Y., Cheung, M. Y., Lo, C. Y. J., Yan, H. C., Narendra, G. I., Kwan, L. W., Chow, C. S., Man, C. Y., & Feldman, G. (2021). Numbing or sensitization? Replications and extensions of Fetherstonhaugh et al. (1977)'s "Insensitivity to the Value of Human Life." *Journal of Experimental Social Psychology*, *97*, Article 104222.  
+[[DOI](https://doi.org/10.1016/j.jesp.2021.104222)] [[OSF](https://osf.io/786jg/)]
 
-Xiao, Q., Lam, C. S., Piara, M., & Feldman, G. (2021). Revisiting the status quo bias: Replication of Samuelson and Zeckhauser (1988). Meta-Psychology, 5. [[DOI]()] [[PDF]()] [[OSF]()]
+**Xiao, Q.**, Lam, C. S., Piara, M., & Feldman, G. (2021). Revisiting the status quo bias: Replication of Samuelson and Zeckhauser (1988). *Meta-Psychology*, *5*.  
+[[DOI](https://doi.org/10.15626/MP.2020.2470)] [[OSF](https://osf.io/kh8q3/)]
 
 ### 2020
 
-Xiao, Q., Zeng, S., & Feldman, G. (2020). Revisiting the decoy effect: Replication and extension of Ariely and Wallsten (1995) and Connolly, Reb, and Kausel (2013). Comprehensive Results in Social Psychology, 4(2), 164--198
+**Xiao, Q.**, Zeng, S., & Feldman, G. (2020). Revisiting the decoy effect: Replication and extension of Ariely and Wallsten (1995) and Connolly, Reb, and Kausel (2013). *Comprehensive Results in Social Psychology*, *4*(2), 164--198.  
+[[DOI](https://doi.org/10.1080/23743603.2021.1878340)] [[OSF](https://osf.io/vsbzk/)]
 
 ## Big-team science projects
 
 Buchanan, E. M. et al. (2023). PSACR: The Psychological Science Accelerator's COVID-19 Rapid-Response dataset. *Nature Scientific Data*, *10*, Article 87.  
-CRediT roles: investigation, writing - review & editing
+[[DOI](https://doi.org/10.1038/s41597-022-01811-7)] [[OSF](https://osf.io/gvw56/)] [[PSA COVID-19 Rapid-Response Project](https://psysciacc.org/studies/psacr-1-2-3/)]
 
-Dorison, C. A. et al. (2022). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. *Affective Science*, *3*, 577--602.
+Dorison, C. A. et al. (2022). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. *Affective Science*, *3*, 577--602.  
+[[DOI](https://doi.org/10.1007/s42761-022-00128-3)] [[OSF](https://osf.io/m6q8f/)] [[PSA COVID-19 Rapid-Response Project](https://psysciacc.org/studies/psacr-1-2-3/)]
 
-Parsons, S. et al. (2022). A community-sourced glossary of open scholarship terms. *Nature Human Behaviour*, *6*, 312--318.
+Parsons, S. et al. (2022). A community-sourced glossary of open scholarship terms. *Nature Human Behaviour*, *6*, 312--318.  
+[[DOI](https://doi.org/10.1038/s41562-021-01269-4)] [[Open Access PDF](https://doi.org/10.31222/osf.io/kdqcw)] [[More Info](https://forrt.org/glossary/)] [[Twitter Thread](https://twitter.com/FORRTproject/status/1495801187081371653)] [[FORRT](https://forrt.org/about/us/)]
 
-Psychological Science Accelerator Self-Determination Theory Collaboration. (2022). A global experiment on motivating social distancing during the COVID-19 pandemic. *Proceedings of the National Academy of Sciences*, *119*(22), Article e2111091119.
+Psychological Science Accelerator Self-Determination Theory Collaboration. (2022). A global experiment on motivating social distancing during the COVID-19 pandemic. *Proceedings of the National Academy of Sciences*, *119*(22), Article e2111091119.  
+[[DOI](https://doi.org/10.1073/pnas.2111091119)] [[OSF](https://osf.io/fc9y7/)] [[PSA COVID-19 Rapid-Response Project](https://psysciacc.org/studies/psacr-1-2-3/)]
 
 Wang, K. et al. (2021). A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. *Nature Human Behaviour*, *5*, 1089--1110.  
-[[DOI](https://doi.org/10.1038/s41562-021-01173-x)] [[PDF](https://osf.io/6zbw2)] [[OSF](https://osf.io/4yf9d/)]
+[[DOI](https://doi.org/10.1038/s41562-021-01173-x)] [[Open Access PDF](https://osf.io/6zbw2)] [[OSF](https://osf.io/4yf9d/)] [[PSA COVID-19 Rapid-Response Project](https://psysciacc.org/studies/psacr-1-2-3/)]
 
-## Work in progress
+## Work in progress (to be updated)
 
 **Xiao, Q.**^\*^, Yeung, S. K.^\*^, Elsherif, M. M., Zhang, Y., & Feldman, G. (in progress). Power analysis guide. [[Google Doc]()] [[PDF]()]  
 This is a collaborative guide. It will remain work in progress indefinitely.
